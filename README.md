@@ -147,6 +147,7 @@ Execute the program using runserver command.
 </body>
 </html>
 
+
 ## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/fec1d96f-f1a3-4366-b401-79b8c5ea5a7f)
