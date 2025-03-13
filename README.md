@@ -1,6 +1,7 @@
 # Ex03 Time Table
 ## Date:  13.03.2025
-
+## Name:  G.Ramanujam
+## Reg.No:  24000309
 ## AIM
 To write a html webpage page to display your slot timetable.
 
